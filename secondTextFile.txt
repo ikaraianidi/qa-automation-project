@@ -1,2 +1,3 @@
 secondTextFile
 updated
+some changes in branch_new_test
