@@ -2,3 +2,4 @@ Updated
 first
 text
 file
+forMergeConflict
