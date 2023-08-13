@@ -1,4 +1,4 @@
 secondTextFile
 updated
 some changes in branch_new_test
-Another text to resolve merge conflict updated
+Just text to resole merge conflict
