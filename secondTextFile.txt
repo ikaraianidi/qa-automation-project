@@ -1,4 +1,0 @@
-secondTextFile
-updated
-some changes in branch_new_test
-Another update directly from git hub updated

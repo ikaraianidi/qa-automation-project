@@ -1,6 +1,0 @@
-Updated
-first
-text
-file
-this is for merge conflict from branch_test
-forMergeConflict from branch main
