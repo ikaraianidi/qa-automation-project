@@ -20,7 +20,7 @@ console.log(typeChecker(true, 5)); // виведе There are no type matches for
 /* 2. Написати функцію, яка, використовуючи тернарний оператор, виводить у консоль Yes, якщо число
 позитивне, та No якщо воно негативне */
 function isNegative(value) {
-  value > 0 ? console.log('Yes') : console.log('No');
+  value > 0 ? console.log('No') : console.log('Yes');
 }
 
 // Приклад роботи функції:
